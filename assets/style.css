@@ -1,0 +1,14 @@
+.container {
+    background-color: blue;
+}
+.jumbotron {
+    color: black;
+    background-color: bisque;
+}
+.gifs {
+    text-align: center;
+    background-image: url("usa\ flag.jpg");
+}
+#form {
+    color: red;
+}
